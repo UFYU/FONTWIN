@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Windows";
   src: local("Windows)"),
-    url(https://raw.githubusercontent.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
+    url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
       format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -24,7 +24,7 @@
 }
 @font-face {
   font-family: "Windows";
-  src: local("Windows Regular"),
+  src: local("Windows"),
     url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
       format("truetype");
   font-weight: normal;
