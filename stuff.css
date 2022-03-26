@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Windows Regular (TrueType)";
+  src: local("Windows Regular (TrueType)"),
+    url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttff)
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Windows Regular (TrueType)";
+  src: local("Windows Regular (TrueType)"),
+    url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
+      format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Windows Regular (TrueType)";
+  src: local("Windows Regular (TrueType)"),
+    url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
+      format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Windows Regular (TrueType)";
+  src: local("Windows Regular"),
+    url(https://github.com/UFYU/FONTWIN/blob/main/Windows%20Regular.ttf)
+      format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
